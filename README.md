@@ -20,10 +20,14 @@
 
 ## 💬 Let’s Talk
 <p align="left">
-<a href="https://linkedin.com/in/nachikaait-chavaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nachikaait-chavaan" height="30" width="40" /></a>
-<a href="mailto:nachikaait24@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="30">
-</a>
+  <a href="mailto:nachikaait24@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nachikaait-chavaan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30">
+  </a>
+</p>
 
 Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!
 ---
