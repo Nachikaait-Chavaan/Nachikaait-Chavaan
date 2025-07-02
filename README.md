@@ -18,14 +18,14 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 💬 Let’s Talk
 <p align="left">
 <a href="https://linkedin.com/in/nachikaait-chavaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nachikaait-chavaan" height="30" width="40" /></a>
 <a href="mailto:nachikaait24@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="30">
 </a>
-</p>
 
+Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!
 ---
 
 ## 🚀 Featured Projects
@@ -38,11 +38,3 @@ Executive dashboards that use clustering, forecasting, and visual storytelling t
 _(More projects coming soon)_
 
 ---
-
-## 💬 Let’s Talk
-
-📫 [nachikaait24@gmail.com](mailto:nachikaait24@gmail.com)  
-🔗 [linkedin.com/in/nachikaait-chavaan](https://linkedin.com/in/nachikaait-chavaan)
-
-Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!
-
