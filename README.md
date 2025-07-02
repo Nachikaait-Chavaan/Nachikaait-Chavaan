@@ -11,10 +11,10 @@
 
 ## 💼 About Me
 
-- 🎓 Master’s in Business Analytics & Information Management, University of Delaware  
-- 🏢 Former Analyst @ Amazon | Strategy-driven, insight-first approach  
-- 🧩 Areas of focus: Profitability modeling, operational efficiency, market segmentation  
-- 🛠️ Tools of the trade: Python, Power BI, Tableau, SQL, scikit-learn
+🎓 Master’s in Business Analytics & Information Management, University of Delaware  
+🏢 Former Analyst @ Amazon | Strategy-driven, insight-first approach  
+🧩 Areas of focus: Profitability modeling, operational efficiency, market segmentation  
+🛠️ Tools of the trade: Python, Power BI, Tableau, SQL, scikit-learn
 
 ---
 
