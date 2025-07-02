@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Nachikaait Chavaan  
+**Business Strategy & Analytics | Ex-Amazon | MS @UDEL**
 
-<!--
-**Nachikaait-Chavaan/Nachikaait-Chavaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently exploring how AI and advanced analytics can drive smarter business decisions at the executive level.
 
-Here are some ideas to get you started:
+📊 I specialize in building end-to-end analytics solutions — from data cleaning and modeling to insight delivery via intuitive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 My work lies at the intersection of business impact and technical depth: segmenting products, forecasting profit trends, and enabling strategic resource allocation.
+
+---
+
+## 💼 About Me
+
+- 🎓 Master’s in Business Analytics, University of Delaware  
+- 🏢 Former Analyst @ Amazon | Strategy-driven, insight-first approach  
+- 🧩 Areas of focus: Profitability modeling, operational efficiency, market segmentation  
+- 🛠️ Tools of the trade: Python, Power BI, Tableau, SQL, scikit-learn
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [AI-Powered Profitability Dashboard](https://github.com/Nachikaait-Chavaan/ai-retail-profitability-dashboard)  
+Executive dashboard that uses clustering, forecasting, and visual storytelling to uncover pricing inefficiencies, underperforming SKUs, and regional strategy gaps.  
+
+➡️ Tech used: Python • scikit-learn • Power BI • Pandas
+
+_(More projects coming soon — including an AI-based Scenario Simulator!)_
+
+---
+
+## 💬 Let’s Talk
+
+📫 [nachikaait24@gmail.com](mailto:nachikaait24@gmail.com)  
+🔗 [linkedin.com/in/nachikaait-chavaan](https://linkedin.com/in/nachikaait-chavaan)
+
+Whether you're into dashboards, decision science, or simply a fellow strategy nerd — feel free to connect!
