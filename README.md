@@ -20,16 +20,16 @@
 
 ## 💬 Let’s Talk
 <p align="left">
-  <a href="mailto:nachikaait24@gmail.com" target="_blank">
+  <a href="mailto:nachikaait24@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nachikaait-chavaan/" target="_blank">
+  <a href="https://www.linkedin.com/in/nachikaait-chavaan/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30">
   </a>
 </p>
 
-Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!
+**Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!**
 ---
 
 ## 🚀 Featured Projects
