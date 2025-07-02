@@ -19,17 +19,18 @@
 ---
 
 ## 💬 Let’s Talk
-<p align="left">
-  <a href="mailto:nachikaait24@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30">
+  <p align="left">
+  <a href="https://www.linkedin.com/in/nachikaait-chavaan" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" style="vertical-align: middle; border: none;"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nachikaait-chavaan/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30">
+  <a href="mailto:nachikaait24@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="36" height="36" style="vertical-align: middle; border: none;"/>
   </a>
 </p>
 
-**Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!**
+Whether you're into dashboards, decision science, or simply a fellow strategy nerd, feel free to connect!
+
 ---
 
 ## 🚀 Featured Projects
